@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoCallApplication</string>
+    <string name="number">Ingrese Numero</string>
+</resources>
